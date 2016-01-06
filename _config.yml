@@ -1,0 +1,28 @@
+name: Light for photo
+favicon: null
+layout_spectrum: 0.41698647383600473
+typography_spectrum: 0.6868137931451201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2566852015443146
+  lightness: 0.5663587173912674
+  saturation: 0.8976752588059753
+  rhythmicContrast: 0.36514650867320597
+purpose: []
